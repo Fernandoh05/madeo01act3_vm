@@ -103,3 +103,12 @@ Si deseas eliminar la máquina virtual, usa el siguiente comando:
 ```sh
 vagrant destroy
 ```
+
+## Contribuidores
+
+| Nombre                         | Correo                              |
+|--------------------------------|-------------------------------------|
+| Juan Carlos Perez Hernandez    | [jc.przhdz@gmail.com](mailto:jc.przhdz@gmail.com) |
+| Fernando Hernandez             | [fernandoh05@outlook.com](mailto:fernandoh05@outlook.com) |
+| Eduardo José Gil Apastillar    | [eduardojgila@gmail.com](mailto:eduardojgila@gmail.com) |
+---
